@@ -1,0 +1,3 @@
+C:/Users/Doomf/OneDrive - KMITL/2nd year/ss1/Physical Computing/PS-Lab/cmake-build-debug/CMakeFiles/PS_Lab.dir
+C:/Users/Doomf/OneDrive - KMITL/2nd year/ss1/Physical Computing/PS-Lab/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Doomf/OneDrive - KMITL/2nd year/ss1/Physical Computing/PS-Lab/cmake-build-debug/CMakeFiles/rebuild_cache.dir
