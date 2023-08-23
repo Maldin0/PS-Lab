@@ -49,13 +49,353 @@ cmake_ninja_workdir = C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$
 
 build cmake_object_order_depends_target_PS_Lab: phony || CMakeFiles/PS_Lab.dir
 
-build CMakeFiles/PS_Lab.dir/library.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/library.c || cmake_object_order_depends_target_PS_Lab
-  DEP_FILE = CMakeFiles\PS_Lab.dir\library.c.obj.d
+build CMakeFiles/PS_Lab.dir/week01/HW_02-01_ASCII.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week01/HW$ 02-01$ ASCII.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week01\HW_02-01_ASCII.c.obj.d
   FLAGS = -g -fdiagnostics-color=always -std=gnu11
   OBJECT_DIR = CMakeFiles\PS_Lab.dir
-  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir
-  TARGET_COMPILE_PDB = CMakeFiles\PS_Lab.dir\PS_Lab.pdb
-  TARGET_PDB = libPS_Lab.pdb
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week01
+
+build CMakeFiles/PS_Lab.dir/week01/HW_02-02_Number.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week01/HW$ 02-02$ Number.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week01\HW_02-02_Number.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week01
+
+build CMakeFiles/PS_Lab.dir/week01/HW_02-03_Number_II.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week01/HW$ 02-03$ Number$ II.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week01\HW_02-03_Number_II.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week01
+
+build CMakeFiles/PS_Lab.dir/week01/Lab_02-01_PrintF.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week01/Lab$ 02-01$ PrintF.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week01\Lab_02-01_PrintF.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week01
+
+build CMakeFiles/PS_Lab.dir/week01/Lab_02-02_Complete_the_code.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week01/Lab$ 02-02$ Complete$ the$ code.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week01\Lab_02-02_Complete_the_code.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week01
+
+build CMakeFiles/PS_Lab.dir/week01/Lab_02-03_Greeting_Alien.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week01/Lab$ 02-03$ Greeting$ Alien.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week01\Lab_02-03_Greeting_Alien.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week01
+
+build CMakeFiles/PS_Lab.dir/week01/Lab_02-04_String_Format.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week01/Lab$ 02-04$ String$ Format.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week01\Lab_02-04_String_Format.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week01
+
+build CMakeFiles/PS_Lab.dir/week01/Lab_02-05_String_Format_II.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week01/Lab$ 02-05$ String$ Format$ II.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week01\Lab_02-05_String_Format_II.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week01
+
+build CMakeFiles/PS_Lab.dir/week01/Lab_02-06_Multi_Inputs.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week01/Lab$ 02-06$ Multi$ Inputs.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week01\Lab_02-06_Multi_Inputs.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week01
+
+build CMakeFiles/PS_Lab.dir/week01/Lab_02-07_IT_Registrar.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week01/Lab$ 02-07$ IT$ Registrar.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week01\Lab_02-07_IT_Registrar.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week01
+
+build CMakeFiles/PS_Lab.dir/week01/Lab_02-08_3_Person.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week01/Lab$ 02-08$ 3$ Person.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week01\Lab_02-08_3_Person.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week01
+
+build CMakeFiles/PS_Lab.dir/week01/Lab_02-09_Character_Shifting.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week01/Lab$ 02-09$ Character$ Shifting.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week01\Lab_02-09_Character_Shifting.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week01
+
+build CMakeFiles/PS_Lab.dir/week01/Lab_03-01_String_Format_III.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week01/Lab$ 03-01$ String$ Format$ III.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week01\Lab_03-01_String_Format_III.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week01
+
+build CMakeFiles/PS_Lab.dir/week01/Lab_03-02_Sum_and_Average.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week01/Lab$ 03-02$ Sum$ and$ Average.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week01\Lab_03-02_Sum_and_Average.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week01
+
+build CMakeFiles/PS_Lab.dir/week01/Lab_03-03_Pythagoras.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week01/Lab$ 03-03$ Pythagoras.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week01\Lab_03-03_Pythagoras.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week01
+
+build CMakeFiles/PS_Lab.dir/week02/HW_03-01_Cell.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week02/HW$ 03-01$ Cell.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week02\HW_03-01_Cell.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week02
+
+build CMakeFiles/PS_Lab.dir/week02/HW_03-02_BMI.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week02/HW$ 03-02$ BMI.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week02\HW_03-02_BMI.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week02
+
+build CMakeFiles/PS_Lab.dir/week02/Lab_03-01_String_Format_III.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week02/Lab$ 03-01$ String$ Format$ III.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week02\Lab_03-01_String_Format_III.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week02
+
+build CMakeFiles/PS_Lab.dir/week02/Lab_03-02_Sum_and_Average.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week02/Lab$ 03-02$ Sum$ and$ Average.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week02\Lab_03-02_Sum_and_Average.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week02
+
+build CMakeFiles/PS_Lab.dir/week02/Lab_03-03_Pythagoras.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week02/Lab$ 03-03$ Pythagoras.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week02\Lab_03-03_Pythagoras.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week02
+
+build CMakeFiles/PS_Lab.dir/week02/Lab_03-04_Arithmetic.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week02/Lab$ 03-04$ Arithmetic.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week02\Lab_03-04_Arithmetic.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week02
+
+build CMakeFiles/PS_Lab.dir/week02/Lab_03-05_Perimeter_of_rectangle.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week02/Lab$ 03-05$ Perimeter$ of$ rectangle.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week02\Lab_03-05_Perimeter_of_rectangle.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week02
+
+build CMakeFiles/PS_Lab.dir/week02/Lab_03-06_Can_price_rate.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week02/Lab$ 03-06$ Can$ price$ rate.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week02\Lab_03-06_Can_price_rate.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week02
+
+build CMakeFiles/PS_Lab.dir/week02/Lab_03-07_SMO#IT_sales_t-shirt.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week02/Lab$ 03-07$ SMO#IT$ sales$ t-shirt.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = "CMakeFiles\PS_Lab.dir\week02\Lab_03-07_SMO#IT_sales_t-shirt.c.obj.d"
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week02
+
+build CMakeFiles/PS_Lab.dir/week02/Lab_03-08_Datetime.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week02/Lab$ 03-08$ Datetime.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week02\Lab_03-08_Datetime.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week02
+
+build CMakeFiles/PS_Lab.dir/week03/HW_04-01_SMO#IT_sales_t-shirt_2!!!.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week03/HW$ 04-01$ SMO#IT$ sales$ t-shirt$ 2!!!.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = "CMakeFiles\PS_Lab.dir\week03\HW_04-01_SMO#IT_sales_t-shirt_2!!!.c.obj.d"
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week03
+
+build CMakeFiles/PS_Lab.dir/week03/HW_04-02_Valid_Triangle.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week03/HW$ 04-02$ Valid$ Triangle.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week03\HW_04-02_Valid_Triangle.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week03
+
+build CMakeFiles/PS_Lab.dir/week03/Lab_04-01_Condition_Process.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week03/Lab$ 04-01$ Condition$ Process.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week03\Lab_04-01_Condition_Process.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week03
+
+build CMakeFiles/PS_Lab.dir/week03/Lab_04-02_Find_Number.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week03/Lab$ 04-02$ Find$ Number.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week03\Lab_04-02_Find_Number.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week03
+
+build CMakeFiles/PS_Lab.dir/week03/Lab_04-03_Your_Grade.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week03/Lab$ 04-03$ Your$ Grade.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week03\Lab_04-03_Your_Grade.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week03
+
+build CMakeFiles/PS_Lab.dir/week03/Lab_04-04_Your_Score.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week03/Lab$ 04-04$ Your$ Score.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week03\Lab_04-04_Your_Score.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week03
+
+build CMakeFiles/PS_Lab.dir/week03/Lab_04-05_Case_Convert.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week03/Lab$ 04-05$ Case$ Convert.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week03\Lab_04-05_Case_Convert.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week03
+
+build CMakeFiles/PS_Lab.dir/week03/Lab_04-06_What_type.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week03/Lab$ 04-06$ What$ type.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week03\Lab_04-06_What_type.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week03
+
+build CMakeFiles/PS_Lab.dir/week04/HW_05-01_Sum_9.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week04/HW$ 05-01$ Sum$ 9.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week04\HW_05-01_Sum_9.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week04
+
+build CMakeFiles/PS_Lab.dir/week04/HW_05-02_Draw_X.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week04/HW$ 05-02$ Draw$ X.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week04\HW_05-02_Draw_X.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week04
+
+build CMakeFiles/PS_Lab.dir/week04/HW_05-03_Reg_System.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week04/HW$ 05-03$ Reg$ System.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week04\HW_05-03_Reg_System.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week04
+
+build CMakeFiles/PS_Lab.dir/week04/Lab_05-01_1_to_n.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week04/Lab$ 05-01$ 1$ to$ n.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week04\Lab_05-01_1_to_n.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week04
+
+build CMakeFiles/PS_Lab.dir/week04/Lab_05-02_n_to_1.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week04/Lab$ 05-02$ n$ to$ 1.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week04\Lab_05-02_n_to_1.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week04
+
+build CMakeFiles/PS_Lab.dir/week04/Lab_05-03_The_Decision.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week04/Lab$ 05-03$ The$ Decision.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week04\Lab_05-03_The_Decision.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week04
+
+build CMakeFiles/PS_Lab.dir/week04/Lab_05-04_While.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week04/Lab$ 05-04$ While.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week04\Lab_05-04_While.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week04
+
+build CMakeFiles/PS_Lab.dir/week04/Lab_05-05_Easy_Loop.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week04/Lab$ 05-05$ Easy$ Loop.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week04\Lab_05-05_Easy_Loop.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week04
+
+build CMakeFiles/PS_Lab.dir/week04/Lab_05-06_Easy_Pyramid.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week04/Lab$ 05-06$ Easy$ Pyramid.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week04\Lab_05-06_Easy_Pyramid.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week04
+
+build CMakeFiles/PS_Lab.dir/week04/Lab_06-01_Index.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week04/Lab$ 06-01$ Index.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week04\Lab_06-01_Index.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week04
+
+build CMakeFiles/PS_Lab.dir/week04/Lab_06-02_Matrix.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week04/Lab$ 06-02$ Matrix.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week04\Lab_06-02_Matrix.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week04
+
+build CMakeFiles/PS_Lab.dir/week04/Lab_06-03_Scalar_Matrix.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week04/Lab$ 06-03$ Scalar$ Matrix.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week04\Lab_06-03_Scalar_Matrix.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week04
+
+build CMakeFiles/PS_Lab.dir/week04/Lab_06-04_Reverse_Word_EZ.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week04/Lab$ 06-04$ Reverse$ Word$ EZ.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week04\Lab_06-04_Reverse_Word_EZ.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week04
+
+build CMakeFiles/PS_Lab.dir/week04/Lab_06-05_Find_character_in_message_EZ.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week04/Lab$ 06-05$ Find$ character$ in$ message$ EZ.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week04\Lab_06-05_Find_character_in_message_EZ.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week04
+
+build CMakeFiles/PS_Lab.dir/week04/Lab_06-06_Sort_name_normal.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week04/Lab$ 06-06$ Sort$ name$ normal.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week04\Lab_06-06_Sort_name_normal.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week04
+
+build CMakeFiles/PS_Lab.dir/week04/Lab_06-07_Encrypt_EZ.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week04/Lab$ 06-07$ Encrypt$ EZ.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week04\Lab_06-07_Encrypt_EZ.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week04
+
+build CMakeFiles/PS_Lab.dir/week05/HW_06-01_Decrypt_EZ.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week05/HW$ 06-01$ Decrypt$ EZ.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week05\HW_06-01_Decrypt_EZ.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week05
+
+build CMakeFiles/PS_Lab.dir/week05/HW_06-03_Is_Palindrome.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week05/HW$ 06-03$ Is$ Palindrome.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week05\HW_06-03_Is_Palindrome.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week05
+
+build CMakeFiles/PS_Lab.dir/week05/HW_06-02_Histogram.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week05/HW$ 06-02$ Histogram.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week05\HW_06-02_Histogram.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week05
+
+build CMakeFiles/PS_Lab.dir/week06/Lab_07-01_Function_number.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week06/Lab$ 07-01$ Function$ number.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week06\Lab_07-01_Function_number.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week06
+
+build CMakeFiles/PS_Lab.dir/week06/Lab_07-02_Strange.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week06/Lab$ 07-02$ Strange.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week06\Lab_07-02_Strange.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week06
+
+build CMakeFiles/PS_Lab.dir/week06/Lab_07-03_Triangle.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week06/Lab$ 07-03$ Triangle.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week06\Lab_07-03_Triangle.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week06
+
+build CMakeFiles/PS_Lab.dir/week06/Lab_07-04_Temperature.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week06/Lab$ 07-04$ Temperature.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week06\Lab_07-04_Temperature.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week06
+
+build CMakeFiles/PS_Lab.dir/week06/Lab_07-05_Math_function.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week06/Lab$ 07-05$ Math$ function.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week06\Lab_07-05_Math_function.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week06
+
+build CMakeFiles/PS_Lab.dir/week06/Lab_07-06_C.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week06/Lab$ 07-06$ C.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week06\Lab_07-06_C.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week06
 
 
 # =============================================================================
@@ -65,14 +405,13 @@ build CMakeFiles/PS_Lab.dir/library.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Do
 #############################################
 # Link the static library libPS_Lab.a
 
-build libPS_Lab.a: C_STATIC_LIBRARY_LINKER__PS_Lab_Debug CMakeFiles/PS_Lab.dir/library.c.obj
+build libPS_Lab.a: C_STATIC_LIBRARY_LINKER__PS_Lab_Debug CMakeFiles/PS_Lab.dir/week01/HW_02-01_ASCII.c.obj CMakeFiles/PS_Lab.dir/week01/HW_02-02_Number.c.obj CMakeFiles/PS_Lab.dir/week01/HW_02-03_Number_II.c.obj CMakeFiles/PS_Lab.dir/week01/Lab_02-01_PrintF.c.obj CMakeFiles/PS_Lab.dir/week01/Lab_02-02_Complete_the_code.c.obj CMakeFiles/PS_Lab.dir/week01/Lab_02-03_Greeting_Alien.c.obj CMakeFiles/PS_Lab.dir/week01/Lab_02-04_String_Format.c.obj CMakeFiles/PS_Lab.dir/week01/Lab_02-05_String_Format_II.c.obj CMakeFiles/PS_Lab.dir/week01/Lab_02-06_Multi_Inputs.c.obj CMakeFiles/PS_Lab.dir/week01/Lab_02-07_IT_Registrar.c.obj CMakeFiles/PS_Lab.dir/week01/Lab_02-08_3_Person.c.obj CMakeFiles/PS_Lab.dir/week01/Lab_02-09_Character_Shifting.c.obj CMakeFiles/PS_Lab.dir/week01/Lab_03-01_String_Format_III.c.obj CMakeFiles/PS_Lab.dir/week01/Lab_03-02_Sum_and_Average.c.obj CMakeFiles/PS_Lab.dir/week01/Lab_03-03_Pythagoras.c.obj CMakeFiles/PS_Lab.dir/week02/HW_03-01_Cell.c.obj CMakeFiles/PS_Lab.dir/week02/HW_03-02_BMI.c.obj CMakeFiles/PS_Lab.dir/week02/Lab_03-01_String_Format_III.c.obj CMakeFiles/PS_Lab.dir/week02/Lab_03-02_Sum_and_Average.c.obj CMakeFiles/PS_Lab.dir/week02/Lab_03-03_Pythagoras.c.obj CMakeFiles/PS_Lab.dir/week02/Lab_03-04_Arithmetic.c.obj CMakeFiles/PS_Lab.dir/week02/Lab_03-05_Perimeter_of_rectangle.c.obj CMakeFiles/PS_Lab.dir/week02/Lab_03-06_Can_price_rate.c.obj CMakeFiles/PS_Lab.dir/week02/Lab_03-07_SMO#IT_sales_t-shirt.c.obj CMakeFiles/PS_Lab.dir/week02/Lab_03-08_Datetime.c.obj CMakeFiles/PS_Lab.dir/week03/HW_04-01_SMO#IT_sales_t-shirt_2!!!.c.obj CMakeFiles/PS_Lab.dir/week03/HW_04-02_Valid_Triangle.c.obj CMakeFiles/PS_Lab.dir/week03/Lab_04-01_Condition_Process.c.obj CMakeFiles/PS_Lab.dir/week03/Lab_04-02_Find_Number.c.obj CMakeFiles/PS_Lab.dir/week03/Lab_04-03_Your_Grade.c.obj CMakeFiles/PS_Lab.dir/week03/Lab_04-04_Your_Score.c.obj CMakeFiles/PS_Lab.dir/week03/Lab_04-05_Case_Convert.c.obj CMakeFiles/PS_Lab.dir/week03/Lab_04-06_What_type.c.obj CMakeFiles/PS_Lab.dir/week04/HW_05-01_Sum_9.c.obj CMakeFiles/PS_Lab.dir/week04/HW_05-02_Draw_X.c.obj CMakeFiles/PS_Lab.dir/week04/HW_05-03_Reg_System.c.obj CMakeFiles/PS_Lab.dir/week04/Lab_05-01_1_to_n.c.obj CMakeFiles/PS_Lab.dir/week04/Lab_05-02_n_to_1.c.obj CMakeFiles/PS_Lab.dir/week04/Lab_05-03_The_Decision.c.obj CMakeFiles/PS_Lab.dir/week04/Lab_05-04_While.c.obj CMakeFiles/PS_Lab.dir/week04/Lab_05-05_Easy_Loop.c.obj CMakeFiles/PS_Lab.dir/week04/Lab_05-06_Easy_Pyramid.c.obj CMakeFiles/PS_Lab.dir/week04/Lab_06-01_Index.c.obj CMakeFiles/PS_Lab.dir/week04/Lab_06-02_Matrix.c.obj CMakeFiles/PS_Lab.dir/week04/Lab_06-03_Scalar_Matrix.c.obj CMakeFiles/PS_Lab.dir/week04/Lab_06-04_Reverse_Word_EZ.c.obj CMakeFiles/PS_Lab.dir/week04/Lab_06-05_Find_character_in_message_EZ.c.obj CMakeFiles/PS_Lab.dir/week04/Lab_06-06_Sort_name_normal.c.obj CMakeFiles/PS_Lab.dir/week04/Lab_06-07_Encrypt_EZ.c.obj CMakeFiles/PS_Lab.dir/week05/HW_06-01_Decrypt_EZ.c.obj CMakeFiles/PS_Lab.dir/week05/HW_06-03_Is_Palindrome.c.obj CMakeFiles/PS_Lab.dir/week05/HW_06-02_Histogram.c.obj CMakeFiles/PS_Lab.dir/week06/Lab_07-01_Function_number.c.obj CMakeFiles/PS_Lab.dir/week06/Lab_07-02_Strange.c.obj CMakeFiles/PS_Lab.dir/week06/Lab_07-03_Triangle.c.obj CMakeFiles/PS_Lab.dir/week06/Lab_07-04_Temperature.c.obj CMakeFiles/PS_Lab.dir/week06/Lab_07-05_Math_function.c.obj CMakeFiles/PS_Lab.dir/week06/Lab_07-06_C.c.obj
   LANGUAGE_COMPILE_FLAGS = -g
   OBJECT_DIR = CMakeFiles\PS_Lab.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\PS_Lab.dir\PS_Lab.pdb
   TARGET_FILE = libPS_Lab.a
-  TARGET_PDB = libPS_Lab.pdb
+  TARGET_PDB = PS_Lab.a.dbg
 
 
 #############################################
@@ -119,14 +458,14 @@ build all: phony libPS_Lab.a
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeCCompiler.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeCCompilerABI.c C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeCommonLanguageInclude.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeCompilerIdDetection.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeDetermineCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeDetermineCompileFeatures.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeDetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeDetermineCompilerABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeDetermineCompilerId.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeDetermineRCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeDetermineSystem.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeFindBinUtils.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeGenericSystem.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeInitializeConfigs.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeLanguageInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeParseImplicitIncludeInfo.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeParseImplicitLinkInfo.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeParseLibraryArchitecture.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeRCCompiler.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeRCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeSystem.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeSystemSpecificInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeSystemSpecificInitialize.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeTestCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeTestCompilerCommon.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeTestRCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/ADSP-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/ARMCC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/ARMClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/AppleClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/Borland-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/Bruce-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/Clang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/Clang-DetermineCompilerInternal.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/Compaq-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/Cray-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/Embarcadero-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/Fujitsu-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/GHS-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/GNU-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/GNU-FindBinUtils.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/HP-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/IAR-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/Intel-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/LCC-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/MSVC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/NVHPC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/NVIDIA-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/PGI-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/PathScale-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/SCO-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/SDCC-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/SunPro-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/TI-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/Tasking-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/Watcom-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/XL-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/XLClang-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/zOS-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Internal/FeatureTesting.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/Windows-GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/Windows-GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/Windows-windres.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/Windows.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/WindowsPaths.cmake C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/CMakeLists.txt CMakeCache.txt CMakeFiles/3.25.2/CMakeCCompiler.cmake CMakeFiles/3.25.2/CMakeRCCompiler.cmake CMakeFiles/3.25.2/CMakeSystem.cmake
+build build.ninja: RERUN_CMAKE | C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeCommonLanguageInclude.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeGenericSystem.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeInitializeConfigs.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeLanguageInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeRCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeSystemSpecificInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeSystemSpecificInitialize.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/Windows-GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/Windows-GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/Windows-windres.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/Windows.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/WindowsPaths.cmake C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/CMakeLists.txt CMakeCache.txt CMakeFiles/3.25.2/CMakeCCompiler.cmake CMakeFiles/3.25.2/CMakeRCCompiler.cmake CMakeFiles/3.25.2/CMakeSystem.cmake
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeCCompiler.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeCCompilerABI.c C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeCommonLanguageInclude.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeCompilerIdDetection.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeDetermineCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeDetermineCompileFeatures.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeDetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeDetermineCompilerABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeDetermineCompilerId.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeDetermineRCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeDetermineSystem.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeFindBinUtils.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeGenericSystem.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeInitializeConfigs.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeLanguageInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeParseImplicitIncludeInfo.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeParseImplicitLinkInfo.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeParseLibraryArchitecture.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeRCCompiler.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeRCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeSystem.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeSystemSpecificInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeSystemSpecificInitialize.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeTestCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeTestCompilerCommon.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeTestRCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/ADSP-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/ARMCC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/ARMClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/AppleClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/Borland-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/Bruce-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/Clang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/Clang-DetermineCompilerInternal.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/Compaq-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/Cray-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/Embarcadero-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/Fujitsu-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/GHS-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/GNU-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/GNU-FindBinUtils.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/HP-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/IAR-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/Intel-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/LCC-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/MSVC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/NVHPC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/NVIDIA-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/PGI-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/PathScale-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/SCO-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/SDCC-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/SunPro-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/TI-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/Tasking-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/Watcom-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/XL-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/XLClang-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/zOS-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Internal/FeatureTesting.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/Windows-GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/Windows-GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/Windows-windres.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/Windows.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/WindowsPaths.cmake C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/CMakeLists.txt CMakeCache.txt CMakeFiles/3.25.2/CMakeCCompiler.cmake CMakeFiles/3.25.2/CMakeRCCompiler.cmake CMakeFiles/3.25.2/CMakeSystem.cmake: phony
+build C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeCommonLanguageInclude.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeGenericSystem.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeInitializeConfigs.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeLanguageInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeRCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeSystemSpecificInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeSystemSpecificInitialize.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Compiler/GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/Windows-GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/Windows-GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/Windows-windres.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/Windows.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.1/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/WindowsPaths.cmake C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/CMakeLists.txt CMakeCache.txt CMakeFiles/3.25.2/CMakeCCompiler.cmake CMakeFiles/3.25.2/CMakeRCCompiler.cmake CMakeFiles/3.25.2/CMakeSystem.cmake: phony
 
 
 #############################################
