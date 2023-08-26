@@ -110,7 +110,10 @@
 				54,
 				55,
 				56,
-				57
+				57,
+				58,
+				59,
+				60
 			]
 		}
 	],
@@ -185,7 +188,10 @@
 				54,
 				55,
 				56,
-				57
+				57,
+				58,
+				59,
+				60
 			]
 		}
 	],
@@ -537,6 +543,24 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "week06/Lab 07-06 C.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "week06/HW 07-01 Convert.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "week06/HW 07-02 Golf.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "week06/HW 07-03 Mantis Jumper.c",
 			"sourceGroupIndex" : 0
 		}
 	],
