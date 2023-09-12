@@ -415,6 +415,90 @@ build CMakeFiles/PS_Lab.dir/week06/HW_07-03_Mantis_Jumper.c.obj: C_COMPILER__PS_
   OBJECT_DIR = CMakeFiles\PS_Lab.dir
   OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week06
 
+build CMakeFiles/PS_Lab.dir/week08/Lab_08-01_String_Space.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week08/Lab$ 08-01$ String$ Space.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week08\Lab_08-01_String_Space.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week08
+
+build CMakeFiles/PS_Lab.dir/week08/Lab_08-02_String_Pretty.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week08/Lab$ 08-02$ String$ Pretty.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week08\Lab_08-02_String_Pretty.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week08
+
+build CMakeFiles/PS_Lab.dir/week08/Lab_08-03_String_Count.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week08/Lab$ 08-03$ String$ Count.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week08\Lab_08-03_String_Count.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week08
+
+build CMakeFiles/PS_Lab.dir/week08/Lab_08-04_String_Word.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week08/Lab$ 08-04$ String$ Word.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week08\Lab_08-04_String_Word.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week08
+
+build CMakeFiles/PS_Lab.dir/week08/Lab_08-05_Struct_Count_2.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week08/Lab$ 08-05$ Struct$ Count$ 2.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week08\Lab_08-05_Struct_Count_2.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week08
+
+build CMakeFiles/PS_Lab.dir/week08/Lab_08-06_Struct_Info_Book.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week08/Lab$ 08-06$ Struct$ Info$ Book.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week08\Lab_08-06_Struct_Info_Book.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week08
+
+build CMakeFiles/PS_Lab.dir/week08/Lab_08-07_Struct_Find_option.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week08/Lab$ 08-07$ Struct$ Find$ option.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week08\Lab_08-07_Struct_Find_option.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week08
+
+build CMakeFiles/PS_Lab.dir/week08/Lab_08-07_Struct_Bookshelf.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week08/Lab$ 08-07$ Struct$ Bookshelf.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week08\Lab_08-07_Struct_Bookshelf.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week08
+
+build CMakeFiles/PS_Lab.dir/week08/HW_08-01_String_Abbreviation.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week08/HW$ 08-01$ String$ Abbreviation.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week08\HW_08-01_String_Abbreviation.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week08
+
+build CMakeFiles/PS_Lab.dir/week08/HW_08-02_String_ABC.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week08/HW$ 08-02$ String$ ABC.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week08\HW_08-02_String_ABC.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week08
+
+build CMakeFiles/PS_Lab.dir/week08/HW_08-04_String_Cat_Finding.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week08/HW$ 08-04$ String$ Cat$ Finding.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week08\HW_08-04_String_Cat_Finding.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week08
+
+build CMakeFiles/PS_Lab.dir/week08/HW_08-05_Struct_Weather.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week08/HW$ 08-05$ Struct$ Weather.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week08\HW_08-05_Struct_Weather.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week08
+
+build CMakeFiles/PS_Lab.dir/week08/HW_08-06_Struct_Salary_calculation.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week08/HW$ 08-06$ Struct$ Salary$ calculation.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week08\HW_08-06_Struct_Salary_calculation.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week08
+
+build CMakeFiles/PS_Lab.dir/week08/HW_08-03_String_Unique_Characters.c.obj: C_COMPILER__PS_Lab_Debug C$:/Users/Doomf/OneDrive$ -$ KMITL/2nd$ year/ss1/Physical$ Computing/PS-Lab/week08/HW$ 08-03$ String$ Unique$ Characters.c || cmake_object_order_depends_target_PS_Lab
+  DEP_FILE = CMakeFiles\PS_Lab.dir\week08\HW_08-03_String_Unique_Characters.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu11
+  OBJECT_DIR = CMakeFiles\PS_Lab.dir
+  OBJECT_FILE_DIR = CMakeFiles\PS_Lab.dir\week08
+
 
 # =============================================================================
 # Link build statements for STATIC_LIBRARY target PS_Lab
@@ -423,7 +507,7 @@ build CMakeFiles/PS_Lab.dir/week06/HW_07-03_Mantis_Jumper.c.obj: C_COMPILER__PS_
 #############################################
 # Link the static library libPS_Lab.a
 
-build libPS_Lab.a: C_STATIC_LIBRARY_LINKER__PS_Lab_Debug CMakeFiles/PS_Lab.dir/week01/HW_02-01_ASCII.c.obj CMakeFiles/PS_Lab.dir/week01/HW_02-02_Number.c.obj CMakeFiles/PS_Lab.dir/week01/HW_02-03_Number_II.c.obj CMakeFiles/PS_Lab.dir/week01/Lab_02-01_PrintF.c.obj CMakeFiles/PS_Lab.dir/week01/Lab_02-02_Complete_the_code.c.obj CMakeFiles/PS_Lab.dir/week01/Lab_02-03_Greeting_Alien.c.obj CMakeFiles/PS_Lab.dir/week01/Lab_02-04_String_Format.c.obj CMakeFiles/PS_Lab.dir/week01/Lab_02-05_String_Format_II.c.obj CMakeFiles/PS_Lab.dir/week01/Lab_02-06_Multi_Inputs.c.obj CMakeFiles/PS_Lab.dir/week01/Lab_02-07_IT_Registrar.c.obj CMakeFiles/PS_Lab.dir/week01/Lab_02-08_3_Person.c.obj CMakeFiles/PS_Lab.dir/week01/Lab_02-09_Character_Shifting.c.obj CMakeFiles/PS_Lab.dir/week01/Lab_03-01_String_Format_III.c.obj CMakeFiles/PS_Lab.dir/week01/Lab_03-02_Sum_and_Average.c.obj CMakeFiles/PS_Lab.dir/week01/Lab_03-03_Pythagoras.c.obj CMakeFiles/PS_Lab.dir/week02/HW_03-01_Cell.c.obj CMakeFiles/PS_Lab.dir/week02/HW_03-02_BMI.c.obj CMakeFiles/PS_Lab.dir/week02/Lab_03-01_String_Format_III.c.obj CMakeFiles/PS_Lab.dir/week02/Lab_03-02_Sum_and_Average.c.obj CMakeFiles/PS_Lab.dir/week02/Lab_03-03_Pythagoras.c.obj CMakeFiles/PS_Lab.dir/week02/Lab_03-04_Arithmetic.c.obj CMakeFiles/PS_Lab.dir/week02/Lab_03-05_Perimeter_of_rectangle.c.obj CMakeFiles/PS_Lab.dir/week02/Lab_03-06_Can_price_rate.c.obj CMakeFiles/PS_Lab.dir/week02/Lab_03-07_SMO#IT_sales_t-shirt.c.obj CMakeFiles/PS_Lab.dir/week02/Lab_03-08_Datetime.c.obj CMakeFiles/PS_Lab.dir/week03/HW_04-01_SMO#IT_sales_t-shirt_2!!!.c.obj CMakeFiles/PS_Lab.dir/week03/HW_04-02_Valid_Triangle.c.obj CMakeFiles/PS_Lab.dir/week03/Lab_04-01_Condition_Process.c.obj CMakeFiles/PS_Lab.dir/week03/Lab_04-02_Find_Number.c.obj CMakeFiles/PS_Lab.dir/week03/Lab_04-03_Your_Grade.c.obj CMakeFiles/PS_Lab.dir/week03/Lab_04-04_Your_Score.c.obj CMakeFiles/PS_Lab.dir/week03/Lab_04-05_Case_Convert.c.obj CMakeFiles/PS_Lab.dir/week03/Lab_04-06_What_type.c.obj CMakeFiles/PS_Lab.dir/week04/HW_05-01_Sum_9.c.obj CMakeFiles/PS_Lab.dir/week04/HW_05-02_Draw_X.c.obj CMakeFiles/PS_Lab.dir/week04/HW_05-03_Reg_System.c.obj CMakeFiles/PS_Lab.dir/week04/Lab_05-01_1_to_n.c.obj CMakeFiles/PS_Lab.dir/week04/Lab_05-02_n_to_1.c.obj CMakeFiles/PS_Lab.dir/week04/Lab_05-03_The_Decision.c.obj CMakeFiles/PS_Lab.dir/week04/Lab_05-04_While.c.obj CMakeFiles/PS_Lab.dir/week04/Lab_05-05_Easy_Loop.c.obj CMakeFiles/PS_Lab.dir/week04/Lab_05-06_Easy_Pyramid.c.obj CMakeFiles/PS_Lab.dir/week04/Lab_06-01_Index.c.obj CMakeFiles/PS_Lab.dir/week04/Lab_06-02_Matrix.c.obj CMakeFiles/PS_Lab.dir/week04/Lab_06-03_Scalar_Matrix.c.obj CMakeFiles/PS_Lab.dir/week04/Lab_06-04_Reverse_Word_EZ.c.obj CMakeFiles/PS_Lab.dir/week04/Lab_06-05_Find_character_in_message_EZ.c.obj CMakeFiles/PS_Lab.dir/week04/Lab_06-06_Sort_name_normal.c.obj CMakeFiles/PS_Lab.dir/week04/Lab_06-07_Encrypt_EZ.c.obj CMakeFiles/PS_Lab.dir/week05/HW_06-01_Decrypt_EZ.c.obj CMakeFiles/PS_Lab.dir/week05/HW_06-03_Is_Palindrome.c.obj CMakeFiles/PS_Lab.dir/week05/HW_06-02_Histogram.c.obj CMakeFiles/PS_Lab.dir/week06/Lab_07-01_Function_number.c.obj CMakeFiles/PS_Lab.dir/week06/Lab_07-02_Strange.c.obj CMakeFiles/PS_Lab.dir/week06/Lab_07-03_Triangle.c.obj CMakeFiles/PS_Lab.dir/week06/Lab_07-04_Temperature.c.obj CMakeFiles/PS_Lab.dir/week06/Lab_07-05_Math_function.c.obj CMakeFiles/PS_Lab.dir/week06/Lab_07-06_C.c.obj CMakeFiles/PS_Lab.dir/week06/HW_07-01_Convert.c.obj CMakeFiles/PS_Lab.dir/week06/HW_07-02_Golf.c.obj CMakeFiles/PS_Lab.dir/week06/HW_07-03_Mantis_Jumper.c.obj
+build libPS_Lab.a: C_STATIC_LIBRARY_LINKER__PS_Lab_Debug CMakeFiles/PS_Lab.dir/week01/HW_02-01_ASCII.c.obj CMakeFiles/PS_Lab.dir/week01/HW_02-02_Number.c.obj CMakeFiles/PS_Lab.dir/week01/HW_02-03_Number_II.c.obj CMakeFiles/PS_Lab.dir/week01/Lab_02-01_PrintF.c.obj CMakeFiles/PS_Lab.dir/week01/Lab_02-02_Complete_the_code.c.obj CMakeFiles/PS_Lab.dir/week01/Lab_02-03_Greeting_Alien.c.obj CMakeFiles/PS_Lab.dir/week01/Lab_02-04_String_Format.c.obj CMakeFiles/PS_Lab.dir/week01/Lab_02-05_String_Format_II.c.obj CMakeFiles/PS_Lab.dir/week01/Lab_02-06_Multi_Inputs.c.obj CMakeFiles/PS_Lab.dir/week01/Lab_02-07_IT_Registrar.c.obj CMakeFiles/PS_Lab.dir/week01/Lab_02-08_3_Person.c.obj CMakeFiles/PS_Lab.dir/week01/Lab_02-09_Character_Shifting.c.obj CMakeFiles/PS_Lab.dir/week01/Lab_03-01_String_Format_III.c.obj CMakeFiles/PS_Lab.dir/week01/Lab_03-02_Sum_and_Average.c.obj CMakeFiles/PS_Lab.dir/week01/Lab_03-03_Pythagoras.c.obj CMakeFiles/PS_Lab.dir/week02/HW_03-01_Cell.c.obj CMakeFiles/PS_Lab.dir/week02/HW_03-02_BMI.c.obj CMakeFiles/PS_Lab.dir/week02/Lab_03-01_String_Format_III.c.obj CMakeFiles/PS_Lab.dir/week02/Lab_03-02_Sum_and_Average.c.obj CMakeFiles/PS_Lab.dir/week02/Lab_03-03_Pythagoras.c.obj CMakeFiles/PS_Lab.dir/week02/Lab_03-04_Arithmetic.c.obj CMakeFiles/PS_Lab.dir/week02/Lab_03-05_Perimeter_of_rectangle.c.obj CMakeFiles/PS_Lab.dir/week02/Lab_03-06_Can_price_rate.c.obj CMakeFiles/PS_Lab.dir/week02/Lab_03-07_SMO#IT_sales_t-shirt.c.obj CMakeFiles/PS_Lab.dir/week02/Lab_03-08_Datetime.c.obj CMakeFiles/PS_Lab.dir/week03/HW_04-01_SMO#IT_sales_t-shirt_2!!!.c.obj CMakeFiles/PS_Lab.dir/week03/HW_04-02_Valid_Triangle.c.obj CMakeFiles/PS_Lab.dir/week03/Lab_04-01_Condition_Process.c.obj CMakeFiles/PS_Lab.dir/week03/Lab_04-02_Find_Number.c.obj CMakeFiles/PS_Lab.dir/week03/Lab_04-03_Your_Grade.c.obj CMakeFiles/PS_Lab.dir/week03/Lab_04-04_Your_Score.c.obj CMakeFiles/PS_Lab.dir/week03/Lab_04-05_Case_Convert.c.obj CMakeFiles/PS_Lab.dir/week03/Lab_04-06_What_type.c.obj CMakeFiles/PS_Lab.dir/week04/HW_05-01_Sum_9.c.obj CMakeFiles/PS_Lab.dir/week04/HW_05-02_Draw_X.c.obj CMakeFiles/PS_Lab.dir/week04/HW_05-03_Reg_System.c.obj CMakeFiles/PS_Lab.dir/week04/Lab_05-01_1_to_n.c.obj CMakeFiles/PS_Lab.dir/week04/Lab_05-02_n_to_1.c.obj CMakeFiles/PS_Lab.dir/week04/Lab_05-03_The_Decision.c.obj CMakeFiles/PS_Lab.dir/week04/Lab_05-04_While.c.obj CMakeFiles/PS_Lab.dir/week04/Lab_05-05_Easy_Loop.c.obj CMakeFiles/PS_Lab.dir/week04/Lab_05-06_Easy_Pyramid.c.obj CMakeFiles/PS_Lab.dir/week04/Lab_06-01_Index.c.obj CMakeFiles/PS_Lab.dir/week04/Lab_06-02_Matrix.c.obj CMakeFiles/PS_Lab.dir/week04/Lab_06-03_Scalar_Matrix.c.obj CMakeFiles/PS_Lab.dir/week04/Lab_06-04_Reverse_Word_EZ.c.obj CMakeFiles/PS_Lab.dir/week04/Lab_06-05_Find_character_in_message_EZ.c.obj CMakeFiles/PS_Lab.dir/week04/Lab_06-06_Sort_name_normal.c.obj CMakeFiles/PS_Lab.dir/week04/Lab_06-07_Encrypt_EZ.c.obj CMakeFiles/PS_Lab.dir/week05/HW_06-01_Decrypt_EZ.c.obj CMakeFiles/PS_Lab.dir/week05/HW_06-03_Is_Palindrome.c.obj CMakeFiles/PS_Lab.dir/week05/HW_06-02_Histogram.c.obj CMakeFiles/PS_Lab.dir/week06/Lab_07-01_Function_number.c.obj CMakeFiles/PS_Lab.dir/week06/Lab_07-02_Strange.c.obj CMakeFiles/PS_Lab.dir/week06/Lab_07-03_Triangle.c.obj CMakeFiles/PS_Lab.dir/week06/Lab_07-04_Temperature.c.obj CMakeFiles/PS_Lab.dir/week06/Lab_07-05_Math_function.c.obj CMakeFiles/PS_Lab.dir/week06/Lab_07-06_C.c.obj CMakeFiles/PS_Lab.dir/week06/HW_07-01_Convert.c.obj CMakeFiles/PS_Lab.dir/week06/HW_07-02_Golf.c.obj CMakeFiles/PS_Lab.dir/week06/HW_07-03_Mantis_Jumper.c.obj CMakeFiles/PS_Lab.dir/week08/Lab_08-01_String_Space.c.obj CMakeFiles/PS_Lab.dir/week08/Lab_08-02_String_Pretty.c.obj CMakeFiles/PS_Lab.dir/week08/Lab_08-03_String_Count.c.obj CMakeFiles/PS_Lab.dir/week08/Lab_08-04_String_Word.c.obj CMakeFiles/PS_Lab.dir/week08/Lab_08-05_Struct_Count_2.c.obj CMakeFiles/PS_Lab.dir/week08/Lab_08-06_Struct_Info_Book.c.obj CMakeFiles/PS_Lab.dir/week08/Lab_08-07_Struct_Find_option.c.obj CMakeFiles/PS_Lab.dir/week08/Lab_08-07_Struct_Bookshelf.c.obj CMakeFiles/PS_Lab.dir/week08/HW_08-01_String_Abbreviation.c.obj CMakeFiles/PS_Lab.dir/week08/HW_08-02_String_ABC.c.obj CMakeFiles/PS_Lab.dir/week08/HW_08-04_String_Cat_Finding.c.obj CMakeFiles/PS_Lab.dir/week08/HW_08-05_Struct_Weather.c.obj CMakeFiles/PS_Lab.dir/week08/HW_08-06_Struct_Salary_calculation.c.obj CMakeFiles/PS_Lab.dir/week08/HW_08-03_String_Unique_Characters.c.obj
   LANGUAGE_COMPILE_FLAGS = -g
   OBJECT_DIR = CMakeFiles\PS_Lab.dir
   POST_BUILD = cd .
