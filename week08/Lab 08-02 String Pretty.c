@@ -7,7 +7,6 @@
 
 int main() {
     int size;
-    double half;
     char line1[51];
     char line2[41];
     scanf("%d %[^\n] %[^\n]", &size, line1, line2);
